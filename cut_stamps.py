@@ -2,7 +2,7 @@ import numpy as np
 from PIL import Image
 import os
 
-INPUT_PATH = "/mnt/user-data/uploads/414b9082fac01547901211b542cf8316179b13e55e3866d31882a586b66ad694.png"
+INPUT_PATH = "/root/.claude/uploads/c4cf518c-fc6f-4553-8532-6c665406228b/05fe5095-2cf888fb08b7169bd2e92292d4f1f47a7dd820fc5aebe4b2a7f550a7861aec4d.png"
 OUTPUT_DIR = "/mnt/user-data/outputs"
 COLS, ROWS = 4, 4
 LINE_SIZE = (370, 320)
